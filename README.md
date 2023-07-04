@@ -1,3 +1,5 @@
+# Multiple-regression-and-model-construction
+
 The aim of the project was to build all combinations of linear models for all possible combinations of independent variables in order to extract the best model (which variables have the greatest impact on the number of days the student performs strenuous physical exercise).
 
 Before building the model, the data set was analyzed and prepared.
