@@ -14,5 +14,5 @@ For the purpose of the project, variables and comments were written in Polish.
 
 The dataset based on research by Winters et al. (A-15). (www.wiley.com/college/daniel)
 
-Description of the set:
-They concern the participation of 248 high school students enrolled in introductory physical education courses. he researchers wanted to know if social cognitive theory constructs were correlated with discretionary, “leisure-time” physical exercise.
+Description of the original set:
+They concern the participation of 248 high school students enrolled in introductory physical education courses. The researchers wanted to know if social cognitive theory constructs were correlated with discretionary, “leisure-time” physical exercise.
